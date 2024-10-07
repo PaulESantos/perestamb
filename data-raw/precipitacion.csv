@@ -1,0 +1,271 @@
+departamento,año,precipitacion
+Amazonas,2012,1008.1
+Amazonas,2013,900.1
+Amazonas,2014,1057.8
+Amazonas,2015,1070
+Amazonas,2016,649.1
+Amazonas,2017,907.1
+Amazonas,2018,989
+Amazonas,2019,1074.3
+Amazonas,2021,885.9000000000001
+Amazonas,2022,810
+Apurimac,2012,598.1
+Apurimac,2013,1117.2
+Apurimac,2014,NA
+Apurimac,2015,1068
+Apurimac,2016,887.4
+Apurimac,2017,941.5999999999999
+Apurimac,2018,1009.1
+Apurimac,2019,1197.2
+Apurimac,2021,1000.9999999999999
+Apurimac,2022,NA
+Arequipa,2012,305.2
+Arequipa,2013,256.4
+Arequipa,2014,NA
+Arequipa,2015,NA
+Arequipa,2016,63.7
+Arequipa,2017,212.10000000000002
+Arequipa,2018,26.9
+Arequipa,2019,93.6
+Arequipa,2021,31.5
+Arequipa,2022,76.7
+Ayacucho,2012,556.5
+Ayacucho,2013,644.1
+Ayacucho,2014,480.5
+Ayacucho,2015,638.6999999999999
+Ayacucho,2016,390.3
+Ayacucho,2017,NA
+Ayacucho,2018,629.2
+Ayacucho,2019,535.9
+Ayacucho,2021,NA
+Ayacucho,2022,480.3
+Cajamarca,2012,823.3
+Cajamarca,2013,724.1
+Cajamarca,2014,610.8999999999999
+Cajamarca,2015,772.1999999999999
+Cajamarca,2016,522.8
+Cajamarca,2017,767.5000000000001
+Cajamarca,2018,730.4
+Cajamarca,2019,813.9
+Cajamarca,2021,725.1999999999999
+Cajamarca,2022,744.9
+Cusco,2012,689.4
+Cusco,2013,808.7
+Cusco,2014,563.3
+Cusco,2015,687.0000000000001
+Cusco,2016,548.1
+Cusco,2017,NA
+Cusco,2018,788.5
+Cusco,2019,838.1
+Cusco,2021,NA
+Cusco,2022,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2012,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2013,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2014,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2015,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2016,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2017,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2018,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2019,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2021,NA
+Fuente: Servicio Nacional de Meteorologia e Hidrologia (SENAMHI).,2022,NA
+Huancavelica,2012,1163.2
+Huancavelica,2013,1110.6
+Huancavelica,2014,981.5
+Huancavelica,2015,1008.3
+Huancavelica,2016,733.3
+Huancavelica,2017,NA
+Huancavelica,2018,1041.1
+Huancavelica,2019,1079.5
+Huancavelica,2021,954.3999999999999
+Huancavelica,2022,778.7
+Huanuco,2012,598.4
+Huanuco,2013,487.6
+Huanuco,2014,516.6999999999999
+Huanuco,2015,425.1000000000001
+Huanuco,2016,307.2
+Huanuco,2017,497.5
+Huanuco,2018,571.3
+Huanuco,2019,566.1
+Huanuco,2021,500.3999999999999
+Huanuco,2022,357.7
+Ica,2012,19.15
+Ica,2013,5
+Ica,2014,9
+Ica,2015,5.5
+Ica,2016,0.3
+Ica,2017,39.00000000000001
+Ica,2018,4.4
+Ica,2019,11.9
+Ica,2021,NA
+Ica,2022,0.4
+Junin,2012,691.9
+Junin,2013,657.2
+Junin,2014,793.34
+Junin,2015,822.9
+Junin,2016,NA
+Junin,2017,NA
+Junin,2018,736
+Junin,2019,704.4
+Junin,2021,655.1
+Junin,2022,754.6
+La Libertad,2012,25
+La Libertad,2013,30.5
+La Libertad,2014,11.299999999999999
+La Libertad,2015,20.999999999999996
+La Libertad,2016,17.1
+La Libertad,2017,83.2
+La Libertad,2018,14.1
+La Libertad,2019,22.2
+La Libertad,2021,9.799999999999999
+La Libertad,2022,4.1
+Lambayeque,2012,63.2
+Lambayeque,2013,31.1
+Lambayeque,2014,10.600000000000001
+Lambayeque,2015,35
+Lambayeque,2016,16.2
+Lambayeque,2017,202.60000000000005
+Lambayeque,2018,16.2
+Lambayeque,2019,27.8
+Lambayeque,2021,42.599999999999994
+Lambayeque,2022,24
+Lima,2012,7.2
+Lima,2013,8.6
+Lima,2014,11.3
+Lima,2015,NA
+Lima,2016,7.5
+Lima,2017,11.299999999999999
+Lima,2018,21.4
+Lima,2019,26.4
+Lima,2021,6.8999999999999995
+Lima,2022,7.4
+Loreto,2012,2279.8
+Loreto,2013,3149.9
+Loreto,2014,2751.4
+Loreto,2015,3282.2000000000003
+Loreto,2016,2885.6
+Loreto,2017,2667.7000000000003
+Loreto,2018,2994.5
+Loreto,2019,2964.9
+Loreto,2021,3276.6
+Loreto,2022,2515.4
+Madre de Dios,2012,1758.45
+Madre de Dios,2013,2398.1
+Madre de Dios,2014,2747.7
+Madre de Dios,2015,2349.9
+Madre de Dios,2016,NA
+Madre de Dios,2017,2325.0000000000005
+Madre de Dios,2018,2424.5
+Madre de Dios,2019,2008.4
+Madre de Dios,2021,NA
+Madre de Dios,2022,1736.6
+Moquegua,2012,48.28
+Moquegua,2013,12.6
+Moquegua,2014,4
+Moquegua,2015,36.2
+Moquegua,2016,5.6
+Moquegua,2017,27.5
+Moquegua,2018,5.6
+Moquegua,2019,54.5
+Moquegua,2021,0.6
+Moquegua,2022,5.3
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2012,NA
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2013,NA
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2014,NA
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2015,NA
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2016,NA
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2017,NA
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2018,NA
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2019,NA
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2021,NA
+"Nota: En el ano 2020 no se dispone de informacion anual, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2022,NA
+Pasco,2012,1075.7
+Pasco,2013,1135.5
+Pasco,2014,1042.4
+Pasco,2015,897.9
+Pasco,2016,829.4
+Pasco,2017,NA
+Pasco,2018,1159.1
+Pasco,2019,1632.5
+Pasco,2021,NA
+Pasco,2022,NA
+Piura,2012,111.3
+Piura,2013,62
+Piura,2014,21
+Piura,2015,NA
+Piura,2016,NA
+Piura,2017,NA
+Piura,2018,12.4
+Piura,2019,58.6
+Piura,2021,30.7
+Piura,2022,NA
+Puno,2012,879.36
+Puno,2013,704.4
+Puno,2014,615.8
+Puno,2015,703.1
+Puno,2016,524.5
+Puno,2017,868.9000000000001
+Puno,2018,684.9
+Puno,2019,588.3
+Puno,2021,640.7999999999998
+Puno,2022,509.8
+San Martin,2012,1375.7
+San Martin,2013,1427.8
+San Martin,2014,1673.1
+San Martin,2015,1673.8000000000002
+San Martin,2016,1334.8
+San Martin,2017,1473.3999999999999
+San Martin,2018,1488.9
+San Martin,2019,1721.8
+San Martin,2021,NA
+San Martin,2022,1172.8
+Tacna,2012,26.4
+Tacna,2013,6.3
+Tacna,2014,24.600000000000005
+Tacna,2015,38.8
+Tacna,2016,10.9
+Tacna,2017,38.4
+Tacna,2018,14.5
+Tacna,2019,39.8
+Tacna,2021,19.099999999999998
+Tacna,2022,7.2
+Tumbes,2012,293.1
+Tumbes,2013,222
+Tumbes,2014,NA
+Tumbes,2015,459.7
+Tumbes,2016,588.1
+Tumbes,2017,817
+Tumbes,2018,171.2
+Tumbes,2019,247.3
+Tumbes,2021,229.1
+Tumbes,2022,NA
+Ucayali,2012,2407.7
+Ucayali,2013,1929.8
+Ucayali,2014,2031.6
+Ucayali,2015,1944.2999999999997
+Ucayali,2016,2010.1
+Ucayali,2017,2329.5
+Ucayali,2018,1691.3
+Ucayali,2019,2695.7
+Ucayali,2021,1743.8000000000002
+Ucayali,2022,2441.3
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2012,NA
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2013,NA
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2014,NA
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2015,NA
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2016,NA
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2017,NA
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2018,NA
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2019,NA
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2021,NA
+"a/ No se registro informacion, debido a restricciones por la emergencia sanitaria ocasionada por la pandemia (COVID-19).",2022,NA
+Ancash,2012,953.8
+Ancash,2013,849.6
+Ancash,2014,980.3999999999999
+Ancash,2015,NA
+Ancash,2016,559.4
+Ancash,2017,1181.3000000000002
+Ancash,2018,1069.7
+Ancash,2019,962.4
+Ancash,2021,NA
+Ancash,2022,654.1

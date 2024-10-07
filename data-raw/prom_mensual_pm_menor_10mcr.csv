@@ -1,0 +1,861 @@
+año,mes,lugar,pm25_mgm
+2013,Abril,Ate,154.51992381250002
+2013,Abril,San Borja,66.60446761242817
+2013,Abril,Jesus Maria (Campo de Marte),56.83046062821386
+2013,Abril,Santa Anita,131.17029305555556
+2013,Abril,Villa Maria del Triunfo,212.22948585488507
+2013,Abril,Huachipa,NA
+2013,Abril,San Juan de Lurigancho,NA
+2013,Abril,San Martin de Porres,NA
+2013,Abril,Carabayllo,NA
+2013,Abril,Puente Piedra,NA
+2013,Agosto,Ate,48.32397422916668
+2013,Agosto,San Borja,60.3800980462963
+2013,Agosto,Jesus Maria (Campo de Marte),57.82106539852151
+2013,Agosto,Santa Anita,96.05474994517542
+2013,Agosto,Villa Maria del Triunfo,91.25852134879034
+2013,Agosto,Huachipa,NA
+2013,Agosto,San Juan de Lurigancho,NA
+2013,Agosto,San Martin de Porres,NA
+2013,Agosto,Carabayllo,NA
+2013,Agosto,Puente Piedra,NA
+2013,Diciembre,Ate,106.19128656622024
+2013,Diciembre,San Borja,46.88620505510753
+2013,Diciembre,Jesus Maria (Campo de Marte),31.261327474999995
+2013,Diciembre,Santa Anita,NA
+2013,Diciembre,Villa Maria del Triunfo,100.86818723333334
+2013,Diciembre,Huachipa,NA
+2013,Diciembre,San Juan de Lurigancho,NA
+2013,Diciembre,San Martin de Porres,NA
+2013,Diciembre,Carabayllo,NA
+2013,Diciembre,Puente Piedra,NA
+2013,Enero,Ate,106.9226397311828
+2013,Enero,San Borja,46.538330607526895
+2013,Enero,Jesus Maria (Campo de Marte),33.52512847222223
+2013,Enero,Santa Anita,73.01129486827958
+2013,Enero,Villa Maria del Triunfo,149.51279725479594
+2013,Enero,Huachipa,NA
+2013,Enero,San Juan de Lurigancho,NA
+2013,Enero,San Martin de Porres,NA
+2013,Enero,Carabayllo,NA
+2013,Enero,Puente Piedra,NA
+2013,Febrero,Ate,117.7731885342262
+2013,Febrero,San Borja,52.47544436011905
+2013,Febrero,Jesus Maria (Campo de Marte),40.08806452194942
+2013,Febrero,Santa Anita,91.07018414895411
+2013,Febrero,Villa Maria del Triunfo,189.50622646491226
+2013,Febrero,Huachipa,NA
+2013,Febrero,San Juan de Lurigancho,NA
+2013,Febrero,San Martin de Porres,NA
+2013,Febrero,Carabayllo,NA
+2013,Febrero,Puente Piedra,NA
+2013,Julio,Ate,51.50861489236111
+2013,Julio,San Borja,53.43701156720429
+2013,Julio,Jesus Maria (Campo de Marte),52.125631133064516
+2013,Julio,Santa Anita,92.16716579534523
+2013,Julio,Villa Maria del Triunfo,82.27420324865592
+2013,Julio,Huachipa,NA
+2013,Julio,San Juan de Lurigancho,NA
+2013,Julio,San Martin de Porres,NA
+2013,Julio,Carabayllo,NA
+2013,Julio,Puente Piedra,NA
+2013,Junio,Ate,111.48796506558247
+2013,Junio,San Borja,54.67067477546297
+2013,Junio,Jesus Maria (Campo de Marte),57.34815854454021
+2013,Junio,Santa Anita,92.33146418084796
+2013,Junio,Villa Maria del Triunfo,103.28367527314816
+2013,Junio,Huachipa,NA
+2013,Junio,San Juan de Lurigancho,NA
+2013,Junio,San Martin de Porres,NA
+2013,Junio,Carabayllo,NA
+2013,Junio,Puente Piedra,NA
+2013,Marzo,Ate,137.7802874065171
+2013,Marzo,San Borja,60.32010007392473
+2013,Marzo,Jesus Maria (Campo de Marte),49.387424489247316
+2013,Marzo,Santa Anita,116.49153265860214
+2013,Marzo,Villa Maria del Triunfo,215.81324955459775
+2013,Marzo,Huachipa,NA
+2013,Marzo,San Juan de Lurigancho,NA
+2013,Marzo,San Martin de Porres,NA
+2013,Marzo,Carabayllo,NA
+2013,Marzo,Puente Piedra,NA
+2013,Mayo,Ate,128.85201009912635
+2013,Mayo,San Borja,66.3867678125
+2013,Mayo,Jesus Maria (Campo de Marte),59.26749052777779
+2013,Mayo,Santa Anita,100.75787561793153
+2013,Mayo,Villa Maria del Triunfo,142.33334303304594
+2013,Mayo,Huachipa,NA
+2013,Mayo,San Juan de Lurigancho,NA
+2013,Mayo,San Martin de Porres,NA
+2013,Mayo,Carabayllo,NA
+2013,Mayo,Puente Piedra,NA
+2013,Noviembre,Ate,101.02132371180554
+2013,Noviembre,San Borja,48.23046024739584
+2013,Noviembre,Jesus Maria (Campo de Marte),36.2114824519676
+2013,Noviembre,Santa Anita,NA
+2013,Noviembre,Villa Maria del Triunfo,99.05683930416666
+2013,Noviembre,Huachipa,NA
+2013,Noviembre,San Juan de Lurigancho,NA
+2013,Noviembre,San Martin de Porres,NA
+2013,Noviembre,Carabayllo,NA
+2013,Noviembre,Puente Piedra,NA
+2013,Octubre,Ate,119.05871719531505
+2013,Octubre,San Borja,53.40262175403226
+2013,Octubre,Jesus Maria (Campo de Marte),40.13745235119047
+2013,Octubre,Santa Anita,64.73400394945654
+2013,Octubre,Villa Maria del Triunfo,109.64519820089285
+2013,Octubre,Huachipa,NA
+2013,Octubre,San Juan de Lurigancho,NA
+2013,Octubre,San Martin de Porres,NA
+2013,Octubre,Carabayllo,NA
+2013,Octubre,Puente Piedra,NA
+2013,Setiembre,Ate,122.43916214833962
+2013,Setiembre,San Borja,57.09325241396199
+2013,Setiembre,Jesus Maria (Campo de Marte),52.48380903703704
+2013,Setiembre,Santa Anita,NA
+2013,Setiembre,Villa Maria del Triunfo,89.47912067644927
+2013,Setiembre,Huachipa,NA
+2013,Setiembre,San Juan de Lurigancho,NA
+2013,Setiembre,San Martin de Porres,NA
+2013,Setiembre,Carabayllo,NA
+2013,Setiembre,Puente Piedra,NA
+2014,Abril,Ate,143.4
+2014,Abril,San Borja,41.8
+2014,Abril,Jesus Maria (Campo de Marte),51.7
+2014,Abril,Santa Anita,72.7
+2014,Abril,Villa Maria del Triunfo,105.5
+2014,Abril,Huachipa,NA
+2014,Abril,San Juan de Lurigancho,NA
+2014,Abril,San Martin de Porres,NA
+2014,Abril,Carabayllo,NA
+2014,Abril,Puente Piedra,NA
+2014,Agosto,Ate,119.9
+2014,Agosto,San Borja,58.8
+2014,Agosto,Jesus Maria (Campo de Marte),44.8
+2014,Agosto,Santa Anita,87.4
+2014,Agosto,Villa Maria del Triunfo,59.4
+2014,Agosto,Huachipa,106.8
+2014,Agosto,San Juan de Lurigancho,99.9
+2014,Agosto,San Martin de Porres,47.5
+2014,Agosto,Carabayllo,61.7
+2014,Agosto,Puente Piedra,104.5
+2014,Diciembre,Ate,109.3
+2014,Diciembre,San Borja,NA
+2014,Diciembre,Jesus Maria (Campo de Marte),38.3
+2014,Diciembre,Santa Anita,69.1
+2014,Diciembre,Villa Maria del Triunfo,130.5
+2014,Diciembre,Huachipa,99
+2014,Diciembre,San Juan de Lurigancho,77.2
+2014,Diciembre,San Martin de Porres,NA
+2014,Diciembre,Carabayllo,86.3
+2014,Diciembre,Puente Piedra,123.5
+2014,Enero,Ate,108.9
+2014,Enero,San Borja,45.6
+2014,Enero,Jesus Maria (Campo de Marte),30.9
+2014,Enero,Santa Anita,NA
+2014,Enero,Villa Maria del Triunfo,112.1
+2014,Enero,Huachipa,NA
+2014,Enero,San Juan de Lurigancho,NA
+2014,Enero,San Martin de Porres,NA
+2014,Enero,Carabayllo,NA
+2014,Enero,Puente Piedra,NA
+2014,Febrero,Ate,130.7
+2014,Febrero,San Borja,46
+2014,Febrero,Jesus Maria (Campo de Marte),45.1
+2014,Febrero,Santa Anita,79.3
+2014,Febrero,Villa Maria del Triunfo,165.6
+2014,Febrero,Huachipa,NA
+2014,Febrero,San Juan de Lurigancho,NA
+2014,Febrero,San Martin de Porres,NA
+2014,Febrero,Carabayllo,NA
+2014,Febrero,Puente Piedra,NA
+2014,Julio,Ate,106
+2014,Julio,San Borja,69.3
+2014,Julio,Jesus Maria (Campo de Marte),51.1
+2014,Julio,Santa Anita,79.4
+2014,Julio,Villa Maria del Triunfo,55.3
+2014,Julio,Huachipa,89.5
+2014,Julio,San Juan de Lurigancho,85.4
+2014,Julio,San Martin de Porres,NA
+2014,Julio,Carabayllo,54.5
+2014,Julio,Puente Piedra,86.4
+2014,Junio,Ate,92.7
+2014,Junio,San Borja,43.7
+2014,Junio,Jesus Maria (Campo de Marte),57.4
+2014,Junio,Santa Anita,NA
+2014,Junio,Villa Maria del Triunfo,NA
+2014,Junio,Huachipa,NA
+2014,Junio,San Juan de Lurigancho,NA
+2014,Junio,San Martin de Porres,NA
+2014,Junio,Carabayllo,NA
+2014,Junio,Puente Piedra,NA
+2014,Marzo,Ate,133.5
+2014,Marzo,San Borja,52.8
+2014,Marzo,Jesus Maria (Campo de Marte),47.5
+2014,Marzo,Santa Anita,66.9
+2014,Marzo,Villa Maria del Triunfo,139.5
+2014,Marzo,Huachipa,NA
+2014,Marzo,San Juan de Lurigancho,NA
+2014,Marzo,San Martin de Porres,NA
+2014,Marzo,Carabayllo,NA
+2014,Marzo,Puente Piedra,NA
+2014,Mayo,Ate,90.3
+2014,Mayo,San Borja,34.6
+2014,Mayo,Jesus Maria (Campo de Marte),40.3
+2014,Mayo,Santa Anita,55.8
+2014,Mayo,Villa Maria del Triunfo,57.4
+2014,Mayo,Huachipa,113.6
+2014,Mayo,San Juan de Lurigancho,101.9
+2014,Mayo,San Martin de Porres,72.5
+2014,Mayo,Carabayllo,104.9
+2014,Mayo,Puente Piedra,147
+2014,Noviembre,Ate,98.5
+2014,Noviembre,San Borja,NA
+2014,Noviembre,Jesus Maria (Campo de Marte),40.1
+2014,Noviembre,Santa Anita,NA
+2014,Noviembre,Villa Maria del Triunfo,NA
+2014,Noviembre,Huachipa,117
+2014,Noviembre,San Juan de Lurigancho,78
+2014,Noviembre,San Martin de Porres,48.1
+2014,Noviembre,Carabayllo,84.8
+2014,Noviembre,Puente Piedra,108.3
+2014,Octubre,Ate,107.8
+2014,Octubre,San Borja,56
+2014,Octubre,Jesus Maria (Campo de Marte),39.9
+2014,Octubre,Santa Anita,NA
+2014,Octubre,Villa Maria del Triunfo,NA
+2014,Octubre,Huachipa,114.6
+2014,Octubre,San Juan de Lurigancho,89.3
+2014,Octubre,San Martin de Porres,48.6
+2014,Octubre,Carabayllo,95.4
+2014,Octubre,Puente Piedra,116.7
+2014,Setiembre,Ate,107.4
+2014,Setiembre,San Borja,58.2
+2014,Setiembre,Jesus Maria (Campo de Marte),48.8
+2014,Setiembre,Santa Anita,NA
+2014,Setiembre,Villa Maria del Triunfo,NA
+2014,Setiembre,Huachipa,95.1
+2014,Setiembre,San Juan de Lurigancho,89.4
+2014,Setiembre,San Martin de Porres,49.7
+2014,Setiembre,Carabayllo,69.1
+2014,Setiembre,Puente Piedra,NA
+2015,Abril,Ate,95.4
+2015,Abril,San Borja,NA
+2015,Abril,Jesus Maria (Campo de Marte),45
+2015,Abril,Santa Anita,83.5
+2015,Abril,Villa Maria del Triunfo,203.5
+2015,Abril,Huachipa,108
+2015,Abril,San Juan de Lurigancho,115.3
+2015,Abril,San Martin de Porres,51.2
+2015,Abril,Carabayllo,NA
+2015,Abril,Puente Piedra,133.5
+2015,Agosto,Ate,96.4
+2015,Agosto,San Borja,48.5
+2015,Agosto,Jesus Maria (Campo de Marte),37.4
+2015,Agosto,Santa Anita,68.7
+2015,Agosto,Villa Maria del Triunfo,NA
+2015,Agosto,Huachipa,79.4
+2015,Agosto,San Juan de Lurigancho,69.3
+2015,Agosto,San Martin de Porres,46.1
+2015,Agosto,Carabayllo,72
+2015,Agosto,Puente Piedra,84.9
+2015,Diciembre,Ate,NA
+2015,Diciembre,San Borja,NA
+2015,Diciembre,Jesus Maria (Campo de Marte),36.5
+2015,Diciembre,Santa Anita,72
+2015,Diciembre,Villa Maria del Triunfo,106.4
+2015,Diciembre,Huachipa,81.8
+2015,Diciembre,San Juan de Lurigancho,78.3
+2015,Diciembre,San Martin de Porres,38.8
+2015,Diciembre,Carabayllo,76.3
+2015,Diciembre,Puente Piedra,131.2
+2015,Enero,Ate,111
+2015,Enero,San Borja,NA
+2015,Enero,Jesus Maria (Campo de Marte),35.1
+2015,Enero,Santa Anita,70
+2015,Enero,Villa Maria del Triunfo,108.6
+2015,Enero,Huachipa,92.5
+2015,Enero,San Juan de Lurigancho,67.2
+2015,Enero,San Martin de Porres,38.2
+2015,Enero,Carabayllo,73.4
+2015,Enero,Puente Piedra,120.1
+2015,Febrero,Ate,124.2
+2015,Febrero,San Borja,NA
+2015,Febrero,Jesus Maria (Campo de Marte),41.6
+2015,Febrero,Santa Anita,81.9
+2015,Febrero,Villa Maria del Triunfo,126.6
+2015,Febrero,Huachipa,102.4
+2015,Febrero,San Juan de Lurigancho,92.2
+2015,Febrero,San Martin de Porres,46.7
+2015,Febrero,Carabayllo,86
+2015,Febrero,Puente Piedra,137.8
+2015,Julio,Ate,65.8
+2015,Julio,San Borja,NA
+2015,Julio,Jesus Maria (Campo de Marte),47.3
+2015,Julio,Santa Anita,48
+2015,Julio,Villa Maria del Triunfo,NA
+2015,Julio,Huachipa,78.9
+2015,Julio,San Juan de Lurigancho,66
+2015,Julio,San Martin de Porres,43.8
+2015,Julio,Carabayllo,73.1
+2015,Julio,Puente Piedra,103.6
+2015,Junio,Ate,77.2
+2015,Junio,San Borja,NA
+2015,Junio,Jesus Maria (Campo de Marte),84.3
+2015,Junio,Santa Anita,108.1
+2015,Junio,Villa Maria del Triunfo,NA
+2015,Junio,Huachipa,181.4
+2015,Junio,San Juan de Lurigancho,147.7
+2015,Junio,San Martin de Porres,96.1
+2015,Junio,Carabayllo,89.1
+2015,Junio,Puente Piedra,286.1
+2015,Marzo,Ate,78.5
+2015,Marzo,San Borja,NA
+2015,Marzo,Jesus Maria (Campo de Marte),52.4
+2015,Marzo,Santa Anita,109.8
+2015,Marzo,Villa Maria del Triunfo,240.3
+2015,Marzo,Huachipa,131.5
+2015,Marzo,San Juan de Lurigancho,122.6
+2015,Marzo,San Martin de Porres,64.9
+2015,Marzo,Carabayllo,99.6
+2015,Marzo,Puente Piedra,158.5
+2015,Mayo,Ate,82.7
+2015,Mayo,San Borja,NA
+2015,Mayo,Jesus Maria (Campo de Marte),50.2
+2015,Mayo,Santa Anita,62.3
+2015,Mayo,Villa Maria del Triunfo,173
+2015,Mayo,Huachipa,102.9
+2015,Mayo,San Juan de Lurigancho,101.5
+2015,Mayo,San Martin de Porres,50.8
+2015,Mayo,Carabayllo,87.6
+2015,Mayo,Puente Piedra,127.8
+2015,Noviembre,Ate,102.3
+2015,Noviembre,San Borja,46
+2015,Noviembre,Jesus Maria (Campo de Marte),33.8
+2015,Noviembre,Santa Anita,73.9
+2015,Noviembre,Villa Maria del Triunfo,86.7
+2015,Noviembre,Huachipa,82.5
+2015,Noviembre,San Juan de Lurigancho,79.2
+2015,Noviembre,San Martin de Porres,38.8
+2015,Noviembre,Carabayllo,76.7
+2015,Noviembre,Puente Piedra,111.9
+2015,Octubre,Ate,97.3
+2015,Octubre,San Borja,44.4
+2015,Octubre,Jesus Maria (Campo de Marte),31.4
+2015,Octubre,Santa Anita,NA
+2015,Octubre,Villa Maria del Triunfo,NA
+2015,Octubre,Huachipa,83
+2015,Octubre,San Juan de Lurigancho,41.5
+2015,Octubre,San Martin de Porres,79.6
+2015,Octubre,Carabayllo,79.2
+2015,Octubre,Puente Piedra,110.7
+2015,Setiembre,Ate,101.6
+2015,Setiembre,San Borja,47.5
+2015,Setiembre,Jesus Maria (Campo de Marte),NA
+2015,Setiembre,Santa Anita,72.9
+2015,Setiembre,Villa Maria del Triunfo,NA
+2015,Setiembre,Huachipa,73.4
+2015,Setiembre,San Juan de Lurigancho,65.2
+2015,Setiembre,San Martin de Porres,42.4
+2015,Setiembre,Carabayllo,69.9
+2015,Setiembre,Puente Piedra,80.2
+2016,Abril,Ate,120.6
+2016,Abril,San Borja,56.2
+2016,Abril,Jesus Maria (Campo de Marte),38.9
+2016,Abril,Santa Anita,91.2
+2016,Abril,Villa Maria del Triunfo,NA
+2016,Abril,Huachipa,113.4
+2016,Abril,San Juan de Lurigancho,108.5
+2016,Abril,San Martin de Porres,53.1
+2016,Abril,Carabayllo,100.2
+2016,Abril,Puente Piedra,152.2
+2016,Agosto,Ate,99
+2016,Agosto,San Borja,56.8
+2016,Agosto,Jesus Maria (Campo de Marte),29.9
+2016,Agosto,Santa Anita,74.8
+2016,Agosto,Villa Maria del Triunfo,57.2
+2016,Agosto,Huachipa,NA
+2016,Agosto,San Juan de Lurigancho,NA
+2016,Agosto,San Martin de Porres,44.9
+2016,Agosto,Carabayllo,NA
+2016,Agosto,Puente Piedra,96.5
+2016,Diciembre,Ate,120.7
+2016,Diciembre,San Borja,62.9
+2016,Diciembre,Jesus Maria (Campo de Marte),35.4
+2016,Diciembre,Santa Anita,76.3
+2016,Diciembre,Villa Maria del Triunfo,119.6
+2016,Diciembre,Huachipa,NA
+2016,Diciembre,San Juan de Lurigancho,93
+2016,Diciembre,San Martin de Porres,34.3
+2016,Diciembre,Carabayllo,84.4
+2016,Diciembre,Puente Piedra,131.5
+2016,Enero,Ate,NA
+2016,Enero,San Borja,44.1
+2016,Enero,Jesus Maria (Campo de Marte),31.7
+2016,Enero,Santa Anita,66.2
+2016,Enero,Villa Maria del Triunfo,141.7
+2016,Enero,Huachipa,81.6
+2016,Enero,San Juan de Lurigancho,70.8
+2016,Enero,San Martin de Porres,36.2
+2016,Enero,Carabayllo,75.4
+2016,Enero,Puente Piedra,111
+2016,Febrero,Ate,98.8
+2016,Febrero,San Borja,48.8
+2016,Febrero,Jesus Maria (Campo de Marte),38.2
+2016,Febrero,Santa Anita,70.1
+2016,Febrero,Villa Maria del Triunfo,169.8
+2016,Febrero,Huachipa,80.4
+2016,Febrero,San Juan de Lurigancho,73.4
+2016,Febrero,San Martin de Porres,39.5
+2016,Febrero,Carabayllo,82
+2016,Febrero,Puente Piedra,125.1
+2016,Julio,Ate,105.6
+2016,Julio,San Borja,48.2
+2016,Julio,Jesus Maria (Campo de Marte),32
+2016,Julio,Santa Anita,77
+2016,Julio,Villa Maria del Triunfo,66.2
+2016,Julio,Huachipa,85.3
+2016,Julio,San Juan de Lurigancho,87.2
+2016,Julio,San Martin de Porres,45.5
+2016,Julio,Carabayllo,80
+2016,Julio,Puente Piedra,102.1
+2016,Junio,Ate,120.2
+2016,Junio,San Borja,65.2
+2016,Junio,Jesus Maria (Campo de Marte),44.7
+2016,Junio,Santa Anita,88.7
+2016,Junio,Villa Maria del Triunfo,105.2
+2016,Junio,Huachipa,NA
+2016,Junio,San Juan de Lurigancho,134.7
+2016,Junio,San Martin de Porres,NA
+2016,Junio,Carabayllo,NA
+2016,Junio,Puente Piedra,NA
+2016,Marzo,Ate,103.7
+2016,Marzo,San Borja,53.9
+2016,Marzo,Jesus Maria (Campo de Marte),35.6
+2016,Marzo,Santa Anita,87.2
+2016,Marzo,Villa Maria del Triunfo,198.4
+2016,Marzo,Huachipa,97.8
+2016,Marzo,San Juan de Lurigancho,87.9
+2016,Marzo,San Martin de Porres,43
+2016,Marzo,Carabayllo,97
+2016,Marzo,Puente Piedra,163.9
+2016,Mayo,Ate,127.2
+2016,Mayo,San Borja,63.5
+2016,Mayo,Jesus Maria (Campo de Marte),44.7
+2016,Mayo,Santa Anita,98.2
+2016,Mayo,Villa Maria del Triunfo,173
+2016,Mayo,Huachipa,122.6
+2016,Mayo,San Juan de Lurigancho,116.2
+2016,Mayo,San Martin de Porres,50
+2016,Mayo,Carabayllo,104.6
+2016,Mayo,Puente Piedra,134.1
+2016,Noviembre,Ate,122.6
+2016,Noviembre,San Borja,NA
+2016,Noviembre,Jesus Maria (Campo de Marte),39
+2016,Noviembre,Santa Anita,82.1
+2016,Noviembre,Villa Maria del Triunfo,99.4
+2016,Noviembre,Huachipa,NA
+2016,Noviembre,San Juan de Lurigancho,100.2
+2016,Noviembre,San Martin de Porres,31.5
+2016,Noviembre,Carabayllo,NA
+2016,Noviembre,Puente Piedra,137.1
+2016,Octubre,Ate,101.8
+2016,Octubre,San Borja,68.4
+2016,Octubre,Jesus Maria (Campo de Marte),32.6
+2016,Octubre,Santa Anita,73.6
+2016,Octubre,Villa Maria del Triunfo,88.9
+2016,Octubre,Huachipa,NA
+2016,Octubre,San Juan de Lurigancho,NA
+2016,Octubre,San Martin de Porres,37.6
+2016,Octubre,Carabayllo,NA
+2016,Octubre,Puente Piedra,121.9
+2016,Setiembre,Ate,111.4
+2016,Setiembre,San Borja,54.7
+2016,Setiembre,Jesus Maria (Campo de Marte),32.6
+2016,Setiembre,Santa Anita,NA
+2016,Setiembre,Villa Maria del Triunfo,90.2
+2016,Setiembre,Huachipa,NA
+2016,Setiembre,San Juan de Lurigancho,NA
+2016,Setiembre,San Martin de Porres,42.5
+2016,Setiembre,Carabayllo,NA
+2016,Setiembre,Puente Piedra,115.7
+2017,Abril,Ate,NA
+2017,Abril,San Borja,NA
+2017,Abril,Jesus Maria (Campo de Marte),31.9
+2017,Abril,Santa Anita,86.6
+2017,Abril,Villa Maria del Triunfo,166.4
+2017,Abril,Huachipa,NA
+2017,Abril,San Juan de Lurigancho,96.1
+2017,Abril,San Martin de Porres,44.6
+2017,Abril,Carabayllo,89
+2017,Abril,Puente Piedra,120.2
+2017,Enero,Ate,132
+2017,Enero,San Borja,51
+2017,Enero,Jesus Maria (Campo de Marte),NA
+2017,Enero,Santa Anita,68
+2017,Enero,Villa Maria del Triunfo,158.8
+2017,Enero,Huachipa,NA
+2017,Enero,San Juan de Lurigancho,86.4
+2017,Enero,San Martin de Porres,71.6
+2017,Enero,Carabayllo,78.7
+2017,Enero,Puente Piedra,130.7
+2017,Febrero,Ate,121
+2017,Febrero,San Borja,61.6
+2017,Febrero,Jesus Maria (Campo de Marte),33.8
+2017,Febrero,Santa Anita,NA
+2017,Febrero,Villa Maria del Triunfo,176
+2017,Febrero,Huachipa,NA
+2017,Febrero,San Juan de Lurigancho,97.5
+2017,Febrero,San Martin de Porres,54.5
+2017,Febrero,Carabayllo,84.7
+2017,Febrero,Puente Piedra,130.6
+2017,Marzo,Ate,128.5
+2017,Marzo,San Borja,NA
+2017,Marzo,Jesus Maria (Campo de Marte),29.3
+2017,Marzo,Santa Anita,77.7
+2017,Marzo,Villa Maria del Triunfo,160.4
+2017,Marzo,Huachipa,NA
+2017,Marzo,San Juan de Lurigancho,NA
+2017,Marzo,San Martin de Porres,41.6
+2017,Marzo,Carabayllo,84
+2017,Marzo,Puente Piedra,116.2
+2019,Abril,Ate,NA
+2019,Abril,San Borja,48.8042361111111
+2019,Abril,Jesus Maria (Campo de Marte),21.648591954023
+2019,Abril,Santa Anita,80.6961934156379
+2019,Abril,Villa Maria del Triunfo,NA
+2019,Abril,Huachipa,NA
+2019,Abril,San Juan de Lurigancho,NA
+2019,Abril,San Martin de Porres,NA
+2019,Abril,Carabayllo,NA
+2019,Abril,Puente Piedra,NA
+2019,Agosto,Ate,NA
+2019,Agosto,San Borja,NA
+2019,Agosto,Jesus Maria (Campo de Marte),26.5511827380952
+2019,Agosto,Santa Anita,NA
+2019,Agosto,Villa Maria del Triunfo,NA
+2019,Agosto,Huachipa,NA
+2019,Agosto,San Juan de Lurigancho,NA
+2019,Agosto,San Martin de Porres,NA
+2019,Agosto,Carabayllo,NA
+2019,Agosto,Puente Piedra,NA
+2019,Diciembre,Ate,NA
+2019,Diciembre,San Borja,NA
+2019,Diciembre,Jesus Maria (Campo de Marte),26.3811827956989
+2019,Diciembre,Santa Anita,85.1340456989247
+2019,Diciembre,Villa Maria del Triunfo,NA
+2019,Diciembre,Huachipa,NA
+2019,Diciembre,San Juan de Lurigancho,59.4547145061728
+2019,Diciembre,San Martin de Porres,NA
+2019,Diciembre,Carabayllo,NA
+2019,Diciembre,Puente Piedra,NA
+2019,Enero,Ate,109.82075268817201
+2019,Enero,San Borja,49.2706720430108
+2019,Enero,Jesus Maria (Campo de Marte),NA
+2019,Enero,Santa Anita,53.4738505747126
+2019,Enero,Villa Maria del Triunfo,NA
+2019,Enero,Huachipa,NA
+2019,Enero,San Juan de Lurigancho,64.6259408602151
+2019,Enero,San Martin de Porres,NA
+2019,Enero,Carabayllo,NA
+2019,Enero,Puente Piedra,NA
+2019,Febrero,Ate,78.6842916666667
+2019,Febrero,San Borja,56.6540895061728
+2019,Febrero,Jesus Maria (Campo de Marte),16.6439136904762
+2019,Febrero,Santa Anita,53.432297008547
+2019,Febrero,Villa Maria del Triunfo,NA
+2019,Febrero,Huachipa,NA
+2019,Febrero,San Juan de Lurigancho,75.2524227688787
+2019,Febrero,San Martin de Porres,NA
+2019,Febrero,Carabayllo,NA
+2019,Febrero,Puente Piedra,NA
+2019,Julio,Ate,NA
+2019,Julio,San Borja,NA
+2019,Julio,Jesus Maria (Campo de Marte),24.2372311827957
+2019,Julio,Santa Anita,NA
+2019,Julio,Villa Maria del Triunfo,NA
+2019,Julio,Huachipa,NA
+2019,Julio,San Juan de Lurigancho,NA
+2019,Julio,San Martin de Porres,NA
+2019,Julio,Carabayllo,NA
+2019,Julio,Puente Piedra,NA
+2019,Junio,Ate,NA
+2019,Junio,San Borja,NA
+2019,Junio,Jesus Maria (Campo de Marte),28.9453933066362
+2019,Junio,Santa Anita,60.3681580536486
+2019,Junio,Villa Maria del Triunfo,67.0865539327859
+2019,Junio,Huachipa,NA
+2019,Junio,San Juan de Lurigancho,NA
+2019,Junio,San Martin de Porres,NA
+2019,Junio,Carabayllo,NA
+2019,Junio,Puente Piedra,NA
+2019,Marzo,Ate,NA
+2019,Marzo,San Borja,51.0079310344828
+2019,Marzo,Jesus Maria (Campo de Marte),18.4860752688172
+2019,Marzo,Santa Anita,73.5698908730159
+2019,Marzo,Villa Maria del Triunfo,NA
+2019,Marzo,Huachipa,NA
+2019,Marzo,San Juan de Lurigancho,NA
+2019,Marzo,San Martin de Porres,NA
+2019,Marzo,Carabayllo,116.238706140351
+2019,Marzo,Puente Piedra,NA
+2019,Mayo,Ate,NA
+2019,Mayo,San Borja,54.6118181818182
+2019,Mayo,Jesus Maria (Campo de Marte),31.0003281681881
+2019,Mayo,Santa Anita,84.9556644562552
+2019,Mayo,Villa Maria del Triunfo,142.423981359649
+2019,Mayo,Huachipa,NA
+2019,Mayo,San Juan de Lurigancho,NA
+2019,Mayo,San Martin de Porres,NA
+2019,Mayo,Carabayllo,NA
+2019,Mayo,Puente Piedra,NA
+2019,Noviembre,Ate,NA
+2019,Noviembre,San Borja,NA
+2019,Noviembre,Jesus Maria (Campo de Marte),27.8715740740741
+2019,Noviembre,Santa Anita,76.07375
+2019,Noviembre,Villa Maria del Triunfo,NA
+2019,Noviembre,Huachipa,NA
+2019,Noviembre,San Juan de Lurigancho,NA
+2019,Noviembre,San Martin de Porres,NA
+2019,Noviembre,Carabayllo,NA
+2019,Noviembre,Puente Piedra,NA
+2019,Octubre,Ate,NA
+2019,Octubre,San Borja,NA
+2019,Octubre,Jesus Maria (Campo de Marte),34.7862967391304
+2019,Octubre,Santa Anita,107.779147222222
+2019,Octubre,Villa Maria del Triunfo,NA
+2019,Octubre,Huachipa,NA
+2019,Octubre,San Juan de Lurigancho,64.4549766081871
+2019,Octubre,San Martin de Porres,NA
+2019,Octubre,Carabayllo,NA
+2019,Octubre,Puente Piedra,NA
+2019,Setiembre,Ate,NA
+2019,Setiembre,San Borja,NA
+2019,Setiembre,Jesus Maria (Campo de Marte),30.8139583333333
+2019,Setiembre,Santa Anita,108.085307017544
+2019,Setiembre,Villa Maria del Triunfo,86.3775972222222
+2019,Setiembre,Huachipa,NA
+2019,Setiembre,San Juan de Lurigancho,74.3985953947368
+2019,Setiembre,San Martin de Porres,NA
+2019,Setiembre,Carabayllo,NA
+2019,Setiembre,Puente Piedra,NA
+2021,Abril,Ate,NA
+2021,Abril,San Borja,NA
+2021,Abril,Jesus Maria (Campo de Marte),25.0400277777778
+2021,Abril,Santa Anita,94.0778894883312
+2021,Abril,Villa Maria del Triunfo,NA
+2021,Abril,Huachipa,NA
+2021,Abril,San Juan de Lurigancho,NA
+2021,Abril,San Martin de Porres,NA
+2021,Abril,Carabayllo,NA
+2021,Abril,Puente Piedra,NA
+2021,Agosto,Ate,NA
+2021,Agosto,San Borja,67.042
+2021,Agosto,Jesus Maria (Campo de Marte),NA
+2021,Agosto,Santa Anita,90.2480622876361
+2021,Agosto,Villa Maria del Triunfo,NA
+2021,Agosto,Huachipa,NA
+2021,Agosto,San Juan de Lurigancho,NA
+2021,Agosto,San Martin de Porres,NA
+2021,Agosto,Carabayllo,52.25015625
+2021,Agosto,Puente Piedra,NA
+2021,Diciembre,Ate,NA
+2021,Diciembre,San Borja,NA
+2021,Diciembre,Jesus Maria (Campo de Marte),NA
+2021,Diciembre,Santa Anita,NA
+2021,Diciembre,Villa Maria del Triunfo,NA
+2021,Diciembre,Huachipa,NA
+2021,Diciembre,San Juan de Lurigancho,66.8870170076726
+2021,Diciembre,San Martin de Porres,30.1103312753623
+2021,Diciembre,Carabayllo,NA
+2021,Diciembre,Puente Piedra,NA
+2021,Enero,Ate,NA
+2021,Enero,San Borja,NA
+2021,Enero,Jesus Maria (Campo de Marte),15.9692141545894
+2021,Enero,Santa Anita,69.6728092650104
+2021,Enero,Villa Maria del Triunfo,NA
+2021,Enero,Huachipa,NA
+2021,Enero,San Juan de Lurigancho,NA
+2021,Enero,San Martin de Porres,NA
+2021,Enero,Carabayllo,NA
+2021,Enero,Puente Piedra,NA
+2021,Febrero,Ate,NA
+2021,Febrero,San Borja,NA
+2021,Febrero,Jesus Maria (Campo de Marte),76.2941967418546
+2021,Febrero,Santa Anita,118.392630749842
+2021,Febrero,Villa Maria del Triunfo,NA
+2021,Febrero,Huachipa,NA
+2021,Febrero,San Juan de Lurigancho,NA
+2021,Febrero,San Martin de Porres,NA
+2021,Febrero,Carabayllo,NA
+2021,Febrero,Puente Piedra,NA
+2021,Julio,Ate,NA
+2021,Julio,San Borja,NA
+2021,Julio,Jesus Maria (Campo de Marte),NA
+2021,Julio,Santa Anita,50.43785906298
+2021,Julio,Villa Maria del Triunfo,NA
+2021,Julio,Huachipa,NA
+2021,Julio,San Juan de Lurigancho,NA
+2021,Julio,San Martin de Porres,NA
+2021,Julio,Carabayllo,69.776257581735507
+2021,Julio,Puente Piedra,NA
+2021,Junio,Ate,NA
+2021,Junio,San Borja,NA
+2021,Junio,Jesus Maria (Campo de Marte),21.5591080674347
+2021,Junio,Santa Anita,56.3200795138145
+2021,Junio,Villa Maria del Triunfo,NA
+2021,Junio,Huachipa,NA
+2021,Junio,San Juan de Lurigancho,NA
+2021,Junio,San Martin de Porres,NA
+2021,Junio,Carabayllo,NA
+2021,Junio,Puente Piedra,NA
+2021,Marzo,Ate,NA
+2021,Marzo,San Borja,NA
+2021,Marzo,Jesus Maria (Campo de Marte),20.7003157971014
+2021,Marzo,Santa Anita,70.4730888478048
+2021,Marzo,Villa Maria del Triunfo,NA
+2021,Marzo,Huachipa,NA
+2021,Marzo,San Juan de Lurigancho,NA
+2021,Marzo,San Martin de Porres,NA
+2021,Marzo,Carabayllo,NA
+2021,Marzo,Puente Piedra,NA
+2021,Mayo,Ate,NA
+2021,Mayo,San Borja,NA
+2021,Mayo,Jesus Maria (Campo de Marte),27.1123644659152
+2021,Mayo,Santa Anita,100.447587948329
+2021,Mayo,Villa Maria del Triunfo,NA
+2021,Mayo,Huachipa,NA
+2021,Mayo,San Juan de Lurigancho,NA
+2021,Mayo,San Martin de Porres,NA
+2021,Mayo,Carabayllo,NA
+2021,Mayo,Puente Piedra,NA
+2021,Noviembre,Ate,NA
+2021,Noviembre,San Borja,NA
+2021,Noviembre,Jesus Maria (Campo de Marte),NA
+2021,Noviembre,Santa Anita,NA
+2021,Noviembre,Villa Maria del Triunfo,NA
+2021,Noviembre,Huachipa,NA
+2021,Noviembre,San Juan de Lurigancho,NA
+2021,Noviembre,San Martin de Porres,NA
+2021,Noviembre,Carabayllo,NA
+2021,Noviembre,Puente Piedra,NA
+2021,Octubre,Ate,NA
+2021,Octubre,San Borja,NA
+2021,Octubre,Jesus Maria (Campo de Marte),NA
+2021,Octubre,Santa Anita,NA
+2021,Octubre,Villa Maria del Triunfo,NA
+2021,Octubre,Huachipa,NA
+2021,Octubre,San Juan de Lurigancho,NA
+2021,Octubre,San Martin de Porres,NA
+2021,Octubre,Carabayllo,NA
+2021,Octubre,Puente Piedra,NA
+2021,Setiembre,Ate,NA
+2021,Setiembre,San Borja,82.8259051724138
+2021,Setiembre,Jesus Maria (Campo de Marte),NA
+2021,Setiembre,Santa Anita,124.36878968254
+2021,Setiembre,Villa Maria del Triunfo,NA
+2021,Setiembre,Huachipa,NA
+2021,Setiembre,San Juan de Lurigancho,NA
+2021,Setiembre,San Martin de Porres,NA
+2021,Setiembre,Carabayllo,NA
+2021,Setiembre,Puente Piedra,NA
+2022,Abril,Ate,NA
+2022,Abril,San Borja,71.4512666666667
+2022,Abril,Jesus Maria (Campo de Marte),24.867693236715
+2022,Abril,Santa Anita,51.8906814449918
+2022,Abril,Villa Maria del Triunfo,83.908152173913
+2022,Abril,Huachipa,NA
+2022,Abril,San Juan de Lurigancho,52.0403591954023
+2022,Abril,San Martin de Porres,35.6312916666667
+2022,Abril,Carabayllo,89.2801851851852
+2022,Abril,Puente Piedra,NA
+2022,Agosto,Ate,NA
+2022,Agosto,San Borja,108.449317841458
+2022,Agosto,Jesus Maria (Campo de Marte),26.5507551929478
+2022,Agosto,Santa Anita,76.5420484274097
+2022,Agosto,Villa Maria del Triunfo,70.1316484439598
+2022,Agosto,Huachipa,NA
+2022,Agosto,San Juan de Lurigancho,80.6041102503294
+2022,Agosto,San Martin de Porres,42.1709102669204
+2022,Agosto,Carabayllo,79.0251939108476
+2022,Agosto,Puente Piedra,NA
+2022,Diciembre,Ate,NA
+2022,Diciembre,San Borja,49.9833880317906
+2022,Diciembre,Jesus Maria (Campo de Marte),21.5061407046477
+2022,Diciembre,Santa Anita,54.0083400331263
+2022,Diciembre,Villa Maria del Triunfo,68.9930956755493
+2022,Diciembre,Huachipa,NA
+2022,Diciembre,San Juan de Lurigancho,51.4920891070594
+2022,Diciembre,San Martin de Porres,25.380446478105
+2022,Diciembre,Carabayllo,62.4591353889382
+2022,Diciembre,Puente Piedra,NA
+2022,Febrero,Ate,NA
+2022,Febrero,San Borja,62.6750409090909
+2022,Febrero,Jesus Maria (Campo de Marte),15.3714415113872
+2022,Febrero,Santa Anita,43.4545713902308
+2022,Febrero,Villa Maria del Triunfo,58.9163888888889
+2022,Febrero,Huachipa,NA
+2022,Febrero,San Juan de Lurigancho,65.38196
+2022,Febrero,San Martin de Porres,39.7372222222222
+2022,Febrero,Carabayllo,46.9023397435897
+2022,Febrero,Puente Piedra,NA
+2022,Julio,Ate,NA
+2022,Julio,San Borja,81.7766034937888
+2022,Julio,Jesus Maria (Campo de Marte),24.361373748931
+2022,Julio,Santa Anita,67.6680738789696
+2022,Julio,Villa Maria del Triunfo,69.5678511994003
+2022,Julio,Huachipa,NA
+2022,Julio,San Juan de Lurigancho,78.3337811594203
+2022,Julio,San Martin de Porres,38.990721352657
+2022,Julio,Carabayllo,50.2017263285024
+2022,Julio,Puente Piedra,NA
+2022,Junio,Ate,NA
+2022,Junio,San Borja,93.2426220538721
+2022,Junio,Jesus Maria (Campo de Marte),28.7501041666667
+2022,Junio,Santa Anita,79.0936456927575
+2022,Junio,Villa Maria del Triunfo,47.5382614942529
+2022,Junio,Huachipa,NA
+2022,Junio,San Juan de Lurigancho,65.9506896551724
+2022,Junio,San Martin de Porres,46.4662885662432
+2022,Junio,Carabayllo,51.7682614942529
+2022,Junio,Puente Piedra,NA
+2022,Marzo,Ate,NA
+2022,Marzo,San Borja,67.6096067716142
+2022,Marzo,Jesus Maria (Campo de Marte),13.8792564286039
+2022,Marzo,Santa Anita,39.4970450444133
+2022,Marzo,Villa Maria del Triunfo,62.5404719323671
+2022,Marzo,Huachipa,NA
+2022,Marzo,San Juan de Lurigancho,51.7255332164563
+2022,Marzo,San Martin de Porres,38.8643472899914
+2022,Marzo,Carabayllo,27.4771010518934
+2022,Marzo,Puente Piedra,NA
+2022,Mayo,Ate,NA
+2022,Mayo,San Borja,89.5341203703704
+2022,Mayo,Jesus Maria (Campo de Marte),31.1007996175523
+2022,Mayo,Santa Anita,78.3978544372294
+2022,Mayo,Villa Maria del Triunfo,84.2050138888889
+2022,Mayo,Huachipa,NA
+2022,Mayo,San Juan de Lurigancho,81.6343279569893
+2022,Mayo,San Martin de Porres,46.9410887096774
+2022,Mayo,Carabayllo,86.1662365591398
+2022,Mayo,Puente Piedra,NA
+2022,Octubre,Ate,NA
+2022,Octubre,San Borja,115.783253423288
+2022,Octubre,Jesus Maria (Campo de Marte),22.00375
+2022,Octubre,Santa Anita,68.6120955486542
+2022,Octubre,Villa Maria del Triunfo,60.0528070749571
+2022,Octubre,Huachipa,NA
+2022,Octubre,San Juan de Lurigancho,70.9571597942964
+2022,Octubre,San Martin de Porres,37.242640782297
+2022,Octubre,Carabayllo,76.0580290322581
+2022,Octubre,Puente Piedra,NA
+2022,Setiembre,Ate,NA
+2022,Setiembre,San Borja,136.017341269841
+2022,Setiembre,Jesus Maria (Campo de Marte),23.5650833333333
+2022,Setiembre,Santa Anita,70.2366710758377
+2022,Setiembre,Villa Maria del Triunfo,51.3115326479076
+2022,Setiembre,Huachipa,NA
+2022,Setiembre,San Juan de Lurigancho,74.6778395061728
+2022,Setiembre,San Martin de Porres,40.5042013888889
+2022,Setiembre,Carabayllo,75.2549444444444
+2022,Setiembre,Puente Piedra,NA

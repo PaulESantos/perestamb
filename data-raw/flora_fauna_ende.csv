@@ -1,0 +1,61 @@
+categoria,año,num_especies
+Anfibios,2011,187
+Anfibios,2012,187
+Anfibios,2013,187
+Anfibios,2014,187
+Anfibios,2015,278
+Anfibios,2016,278
+Anfibios,2017,330
+Anfibios,2018,330
+Anfibios,2019,330
+Anfibios,2020,330
+Angiospermas y gimnospermas,2011,5509
+Angiospermas y gimnospermas,2012,5509
+Angiospermas y gimnospermas,2013,5509
+Angiospermas y gimnospermas,2014,5509
+Angiospermas y gimnospermas,2015,5509
+Angiospermas y gimnospermas,2016,5509
+Angiospermas y gimnospermas,2017,7590
+Angiospermas y gimnospermas,2018,7590
+Angiospermas y gimnospermas,2019,7838
+Angiospermas y gimnospermas,2020,7838
+Aves,2011,103
+Aves,2012,103
+Aves,2013,104
+Aves,2014,105
+Aves,2015,105
+Aves,2016,105
+Aves,2017,108
+Aves,2018,106
+Aves,2019,106
+Aves,2020,110
+Mamiferos,2011,69
+Mamiferos,2012,69
+Mamiferos,2013,70
+Mamiferos,2014,76
+Mamiferos,2015,77
+Mamiferos,2016,79
+Mamiferos,2017,80
+Mamiferos,2018,81
+Mamiferos,2019,81
+Mamiferos,2020,82
+Peces continentales,2011,70
+Peces continentales,2012,70
+Peces continentales,2013,70
+Peces continentales,2014,70
+Peces continentales,2015,70
+Peces continentales,2016,70
+Peces continentales,2017,70
+Peces continentales,2018,70
+Peces continentales,2019,75
+Peces continentales,2020,75
+Reptiles,2011,113
+Reptiles,2012,113
+Reptiles,2013,113
+Reptiles,2014,131
+Reptiles,2015,135
+Reptiles,2016,137
+Reptiles,2017,137
+Reptiles,2018,137
+Reptiles,2019,137
+Reptiles,2020,151
